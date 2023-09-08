@@ -5,5 +5,5 @@ int main(int argc, char *argv[])
 {
     Tracking::ADAS();
 
-    return;
+    return 0;
 }
